@@ -32,8 +32,8 @@ If there is no solution to the problem  print  "Solution does not exist"
 ## Program:
 ```
 /*
-Developed by:Abinaya A
-Register Number: 212223040003
+Developed by:Sunil Kumar P.B.
+Register Number: 212223040213
 */
 import java.util.Scanner;
 
